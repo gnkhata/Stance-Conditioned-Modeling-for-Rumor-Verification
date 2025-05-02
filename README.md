@@ -4,7 +4,6 @@ This repository contains code for our paper Stance-Conditioned Modeling for Rumo
   is the driver code for SemEval-2017 and  RumorEval-2019 tasks
 --BiLSTM_LLM_pheme.py
   is the driver code for PHEME.
-  
 --Post_Representation.py 
     does the post aggregation feature. 
 --ReadInputStancDistr.py
